@@ -112,5 +112,15 @@
   <ItemGroup>
     <None Include="App.config" />
   </ItemGroup>
+  <ItemGroup>
+    <None Include="README.md" />
+  </ItemGroup>
+  <ItemGroup />
+  <ItemGroup>
+    <Content Include="img\Form1-1.gif" />
+    <Content Include="img\Form1-2.gif" />
+    <Content Include="img\Form2-1.gif" />
+    <Content Include="img\Form2-2.gif" />
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
